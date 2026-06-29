@@ -1,0 +1,19 @@
+# Virtual Environment
+venv/
+path/to/venv/
+ENV/
+env/
+
+# Playwright / Anti-bot temporary profiles & drivers
+playwright_profile/
+.playwright/
+
+# Python caching & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Operating System files
+.DS_Store
+Thumbs.db
