@@ -32,7 +32,7 @@ def run():
                     data = response.json()
                     with open("match_list.json", "w", encoding="utf-8") as f:
                         json.dump(data, f, indent=4, ensure_ascii=False)
-                    print("\n🎉 Success! Captured data and saved to match_list.json")
+                    print("\nSuccess! Captured data and saved to match_list.json")
                     captured_data["found"] = True
                 except Exception as e:
                     print(f"Found URL but couldn't parse JSON: {e}")
@@ -50,7 +50,7 @@ def run():
             page.wait_for_timeout(3000)
 
         if not captured_data["found"]:
-            print("❌ Failed to capture the API. Try interacting with or scrolling the page.")
+            print("Failed to capture the API. Try interacting with or scrolling the page.")
         
         context.close()
 

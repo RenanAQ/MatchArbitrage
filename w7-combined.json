@@ -1,0 +1,1166 @@
+[
+    {
+        "match_id": 9609668,
+        "match_date": "2026-05-04 21:40:00+00",
+        "home_team": "Colorado Rockies",
+        "away_team": "New York Mets",
+        "home_score": 2,
+        "away_score": 4,
+        "odds": {
+            "home": 2.25,
+            "away": 1.741
+        }
+    },
+    {
+        "match_id": 9609104,
+        "match_date": "2026-05-04 22:10:00+00",
+        "home_team": "Detroit Tigers",
+        "away_team": "Boston Red Sox",
+        "home_score": 4,
+        "away_score": 5,
+        "odds": {
+            "home": 2.05,
+            "away": 1.833
+        }
+    },
+    {
+        "match_id": 9609143,
+        "match_date": "2026-05-04 22:40:00+00",
+        "home_team": "Miami Marlins",
+        "away_team": "Philadelphia Phillies",
+        "home_score": 0,
+        "away_score": 1,
+        "odds": {
+            "home": 1.909,
+            "away": 1.952381
+        }
+    },
+    {
+        "match_id": 9609683,
+        "match_date": "2026-05-04 22:40:00+00",
+        "home_team": "Tampa Bay Rays",
+        "away_team": "Toronto Blue Jays",
+        "home_score": 5,
+        "away_score": 1,
+        "odds": {
+            "home": 1.8,
+            "away": 2.1
+        }
+    },
+    {
+        "match_id": 9609111,
+        "match_date": "2026-05-04 23:05:00+00",
+        "home_team": "New York Yankees",
+        "away_team": "Baltimore Orioles",
+        "home_score": 12,
+        "away_score": 1,
+        "odds": {
+            "home": 1.444,
+            "away": 2.95
+        }
+    },
+    {
+        "match_id": 9609085,
+        "match_date": "2026-05-04 23:10:00+00",
+        "home_team": "Chicago Cubs",
+        "away_team": "Cincinnati Reds",
+        "home_score": 5,
+        "away_score": 4,
+        "odds": {
+            "home": 1.476,
+            "away": 2.85
+        }
+    },
+    {
+        "match_id": 9609288,
+        "match_date": "2026-05-04 23:40:00+00",
+        "home_team": "Kansas City Royals",
+        "away_team": "Cleveland Guardians",
+        "home_score": 6,
+        "away_score": 2,
+        "odds": {
+            "home": 1.869,
+            "away": 1.9803922
+        }
+    },
+    {
+        "match_id": 9608746,
+        "match_date": "2026-05-04 23:45:00+00",
+        "home_team": "St. Louis Cardinals",
+        "away_team": "Milwaukee Brewers",
+        "home_score": 6,
+        "away_score": 3,
+        "odds": {
+            "home": 2.05,
+            "away": 1.8
+        }
+    },
+    {
+        "match_id": 9608989,
+        "match_date": "2026-05-05 00:10:00+00",
+        "home_team": "Houston Astros",
+        "away_team": "Los Angeles Dodgers",
+        "home_score": 3,
+        "away_score": 8,
+        "odds": {
+            "home": 2.75,
+            "away": 1.5025126
+        }
+    },
+    {
+        "match_id": 9609127,
+        "match_date": "2026-05-05 01:38:00+00",
+        "home_team": "Los Angeles Angels",
+        "away_team": "Chicago White Sox",
+        "home_score": 0,
+        "away_score": 6,
+        "odds": {
+            "home": 1.666,
+            "away": 2.33
+        }
+    },
+    {
+        "match_id": 9609098,
+        "match_date": "2026-05-05 01:40:00+00",
+        "home_team": "Seattle Mariners",
+        "away_team": "Atlanta Braves",
+        "home_score": 5,
+        "away_score": 4,
+        "odds": {
+            "home": 1.714,
+            "away": 2.2
+        }
+    },
+    {
+        "match_id": 9609056,
+        "match_date": "2026-05-05 01:45:00+00",
+        "home_team": "San Francisco Giants",
+        "away_team": "San Diego Padres",
+        "home_score": 3,
+        "away_score": 2,
+        "odds": {
+            "home": 2.1,
+            "away": 1.7692307
+        }
+    },
+    {
+        "match_id": 9609663,
+        "match_date": "2026-05-05 22:40:00+00",
+        "home_team": "Detroit Tigers",
+        "away_team": "Boston Red Sox",
+        "home_score": 3,
+        "away_score": 10,
+        "odds": {
+            "home": 1.667,
+            "away": 2.33
+        }
+    },
+    {
+        "match_id": 9609129,
+        "match_date": "2026-05-05 22:40:00+00",
+        "home_team": "Miami Marlins",
+        "away_team": "Baltimore Orioles",
+        "home_score": 7,
+        "away_score": 9,
+        "odds": {
+            "home": 1.7246377,
+            "away": 2.25
+        }
+    },
+    {
+        "match_id": 9608739,
+        "match_date": "2026-05-05 22:40:00+00",
+        "home_team": "Philadelphia Phillies",
+        "away_team": "Oakland Athletics",
+        "home_score": 9,
+        "away_score": 1,
+        "odds": {
+            "home": 1.526,
+            "away": 2.45
+        }
+    },
+    {
+        "match_id": 9608773,
+        "match_date": "2026-05-05 22:40:00+00",
+        "home_team": "Tampa Bay Rays",
+        "away_team": "Toronto Blue Jays",
+        "home_score": 4,
+        "away_score": 3,
+        "odds": {
+            "home": 1.8,
+            "away": 2.05
+        }
+    },
+    {
+        "match_id": 9609044,
+        "match_date": "2026-05-05 22:45:00+00",
+        "home_team": "Washington Nationals",
+        "away_team": "Minnesota Twins",
+        "home_score": 3,
+        "away_score": 11,
+        "odds": {
+            "home": 2.0,
+            "away": 1.87
+        }
+    },
+    {
+        "match_id": 9609293,
+        "match_date": "2026-05-05 23:05:00+00",
+        "home_team": "New York Yankees",
+        "away_team": "Texas Rangers",
+        "home_score": 7,
+        "away_score": 4,
+        "odds": {
+            "home": 1.769,
+            "away": 2.15
+        }
+    },
+    {
+        "match_id": 9609009,
+        "match_date": "2026-05-05 23:40:00+00",
+        "home_team": "Chicago Cubs",
+        "away_team": "Cincinnati Reds",
+        "home_score": 3,
+        "away_score": 2,
+        "odds": {
+            "home": 1.606,
+            "away": 2.4
+        }
+    },
+    {
+        "match_id": 9608779,
+        "match_date": "2026-05-05 23:40:00+00",
+        "home_team": "Kansas City Royals",
+        "away_team": "Cleveland Guardians",
+        "home_score": 5,
+        "away_score": 3,
+        "odds": {
+            "home": 1.9803922,
+            "away": 1.869
+        }
+    },
+    {
+        "match_id": 9609144,
+        "match_date": "2026-05-05 23:45:00+00",
+        "home_team": "St. Louis Cardinals",
+        "away_team": "Milwaukee Brewers",
+        "home_score": null,
+        "away_score": null,
+        "odds": {
+            "home": 1.9090909,
+            "away": 1.9090909
+        }
+    },
+    {
+        "match_id": 9609266,
+        "match_date": "2026-05-06 00:10:00+00",
+        "home_team": "Houston Astros",
+        "away_team": "Los Angeles Dodgers",
+        "home_score": 2,
+        "away_score": 1,
+        "odds": {
+            "home": 2.85,
+            "away": 1.454
+        }
+    },
+    {
+        "match_id": 9609065,
+        "match_date": "2026-05-06 00:40:00+00",
+        "home_team": "Colorado Rockies",
+        "away_team": "New York Mets",
+        "home_score": null,
+        "away_score": null,
+        "odds": {
+            "home": 2.4,
+            "away": 1.6134969
+        }
+    },
+    {
+        "match_id": 9609008,
+        "match_date": "2026-05-06 01:38:00+00",
+        "home_team": "Los Angeles Angels",
+        "away_team": "Chicago White Sox",
+        "home_score": 4,
+        "away_score": 3,
+        "odds": {
+            "home": 1.869,
+            "away": 2.0
+        }
+    },
+    {
+        "match_id": 9609267,
+        "match_date": "2026-05-06 01:40:00+00",
+        "home_team": "Arizona Diamondbacks",
+        "away_team": "Pittsburgh Pirates",
+        "home_score": 9,
+        "away_score": 0,
+        "odds": {
+            "home": 1.7692307,
+            "away": 2.1
+        }
+    },
+    {
+        "match_id": 9609077,
+        "match_date": "2026-05-06 01:40:00+00",
+        "home_team": "Seattle Mariners",
+        "away_team": "Atlanta Braves",
+        "home_score": 2,
+        "away_score": 3,
+        "odds": {
+            "home": 1.769,
+            "away": 2.1
+        }
+    },
+    {
+        "match_id": 9609125,
+        "match_date": "2026-05-06 01:45:00+00",
+        "home_team": "San Francisco Giants",
+        "away_team": "San Diego Padres",
+        "home_score": 5,
+        "away_score": 10,
+        "odds": {
+            "home": 1.6711409,
+            "away": 2.25
+        }
+    },
+    {
+        "match_id": 9609031,
+        "match_date": "2026-05-06 17:10:00+00",
+        "home_team": "Tampa Bay Rays",
+        "away_team": "Toronto Blue Jays",
+        "home_score": 3,
+        "away_score": 0,
+        "odds": {
+            "home": 1.8,
+            "away": 2.24
+        }
+    },
+    {
+        "match_id": 9609677,
+        "match_date": "2026-05-06 17:15:00+00",
+        "home_team": "St. Louis Cardinals",
+        "away_team": "Milwaukee Brewers",
+        "home_score": 2,
+        "away_score": 6,
+        "odds": {
+            "home": 1.952,
+            "away": 1.9090909
+        }
+    },
+    {
+        "match_id": 9609105,
+        "match_date": "2026-05-06 18:10:00+00",
+        "home_team": "Houston Astros",
+        "away_team": "Los Angeles Dodgers",
+        "home_score": 2,
+        "away_score": 12,
+        "odds": {
+            "home": 2.8,
+            "away": 1.456621
+        }
+    },
+    {
+        "match_id": 9609099,
+        "match_date": "2026-05-06 19:45:00+00",
+        "home_team": "San Francisco Giants",
+        "away_team": "San Diego Padres",
+        "home_score": 1,
+        "away_score": 5,
+        "odds": {
+            "home": 1.87,
+            "away": 2.0
+        }
+    },
+    {
+        "match_id": 9609018,
+        "match_date": "2026-05-06 20:07:00+00",
+        "home_team": "Los Angeles Angels",
+        "away_team": "Chicago White Sox",
+        "home_score": 8,
+        "away_score": 2,
+        "odds": {
+            "home": 1.952,
+            "away": 1.8849558
+        }
+    },
+    {
+        "match_id": 9608792,
+        "match_date": "2026-05-06 20:10:00+00",
+        "home_team": "Seattle Mariners",
+        "away_team": "Atlanta Braves",
+        "home_score": 3,
+        "away_score": 1,
+        "odds": {
+            "home": 1.741,
+            "away": 2.17
+        }
+    },
+    {
+        "match_id": 9609066,
+        "match_date": "2026-05-06 22:40:00+00",
+        "home_team": "Detroit Tigers",
+        "away_team": "Boston Red Sox",
+        "home_score": 0,
+        "away_score": 4,
+        "odds": {
+            "home": 1.9090909,
+            "away": 1.9090909
+        }
+    },
+    {
+        "match_id": 9608755,
+        "match_date": "2026-05-06 22:40:00+00",
+        "home_team": "Miami Marlins",
+        "away_team": "Baltimore Orioles",
+        "home_score": 4,
+        "away_score": 7,
+        "odds": {
+            "home": 1.769,
+            "away": 2.1
+        }
+    },
+    {
+        "match_id": 9608758,
+        "match_date": "2026-05-06 22:40:00+00",
+        "home_team": "Philadelphia Phillies",
+        "away_team": "Oakland Athletics",
+        "home_score": 6,
+        "away_score": 3,
+        "odds": {
+            "home": 1.588,
+            "away": 2.4
+        }
+    },
+    {
+        "match_id": 9609086,
+        "match_date": "2026-05-06 22:45:00+00",
+        "home_team": "Washington Nationals",
+        "away_team": "Minnesota Twins",
+        "home_score": 15,
+        "away_score": 2,
+        "odds": {
+            "home": 2.05,
+            "away": 1.833
+        }
+    },
+    {
+        "match_id": 9609096,
+        "match_date": "2026-05-06 23:05:00+00",
+        "home_team": "New York Yankees",
+        "away_team": "Texas Rangers",
+        "home_score": 1,
+        "away_score": 6,
+        "odds": {
+            "home": 1.606,
+            "away": 2.45
+        }
+    },
+    {
+        "match_id": 9609035,
+        "match_date": "2026-05-06 23:40:00+00",
+        "home_team": "Chicago Cubs",
+        "away_team": "Cincinnati Reds",
+        "home_score": 7,
+        "away_score": 6,
+        "odds": {
+            "home": 1.606,
+            "away": 2.45
+        }
+    },
+    {
+        "match_id": 9609064,
+        "match_date": "2026-05-06 23:40:00+00",
+        "home_team": "Kansas City Royals",
+        "away_team": "Cleveland Guardians",
+        "home_score": 1,
+        "away_score": 3,
+        "odds": {
+            "home": 1.741,
+            "away": 2.2
+        }
+    },
+    {
+        "match_id": 9609115,
+        "match_date": "2026-05-07 01:20:00+00",
+        "home_team": "Colorado Rockies",
+        "away_team": "New York Mets",
+        "home_score": 5,
+        "away_score": 10,
+        "odds": {
+            "home": 2.33,
+            "away": 1.645
+        }
+    },
+    {
+        "match_id": 9608743,
+        "match_date": "2026-05-07 01:40:00+00",
+        "home_team": "Arizona Diamondbacks",
+        "away_team": "Pittsburgh Pirates",
+        "home_score": 0,
+        "away_score": 1,
+        "odds": {
+            "home": 2.09,
+            "away": 1.8
+        }
+    },
+    {
+        "match_id": 9609051,
+        "match_date": "2026-05-07 16:35:00+00",
+        "home_team": "New York Yankees",
+        "away_team": "Texas Rangers",
+        "home_score": 9,
+        "away_score": 2,
+        "odds": {
+            "home": 1.666,
+            "away": 2.31
+        }
+    },
+    {
+        "match_id": 9609011,
+        "match_date": "2026-05-07 17:05:00+00",
+        "home_team": "Washington Nationals",
+        "away_team": "Minnesota Twins",
+        "home_score": 7,
+        "away_score": 5,
+        "odds": {
+            "home": 1.8,
+            "away": 2.05
+        }
+    },
+    {
+        "match_id": 9609246,
+        "match_date": "2026-05-07 18:10:00+00",
+        "home_team": "Kansas City Royals",
+        "away_team": "Cleveland Guardians",
+        "home_score": 5,
+        "away_score": 8,
+        "odds": {
+            "home": 1.769,
+            "away": 2.1
+        }
+    },
+    {
+        "match_id": 9609050,
+        "match_date": "2026-05-07 18:20:00+00",
+        "home_team": "Chicago Cubs",
+        "away_team": "Cincinnati Reds",
+        "home_score": 8,
+        "away_score": 3,
+        "odds": {
+            "home": 1.5,
+            "away": 2.75
+        }
+    },
+    {
+        "match_id": 10073791,
+        "match_date": "2026-05-07 19:10:00+00",
+        "home_team": "Colorado Rockies",
+        "away_team": "New York Mets",
+        "home_score": 6,
+        "away_score": 2,
+        "odds": {
+            "home": 2.25,
+            "away": 1.714
+        }
+    },
+    {
+        "match_id": 9608763,
+        "match_date": "2026-05-07 19:40:00+00",
+        "home_team": "Arizona Diamondbacks",
+        "away_team": "Pittsburgh Pirates",
+        "home_score": 2,
+        "away_score": 4,
+        "odds": {
+            "home": 1.87,
+            "away": 1.9708738
+        }
+    },
+    {
+        "match_id": 9609114,
+        "match_date": "2026-05-07 22:40:00+00",
+        "home_team": "Miami Marlins",
+        "away_team": "Baltimore Orioles",
+        "home_score": 4,
+        "away_score": 3,
+        "odds": {
+            "home": 1.8,
+            "away": 2.1
+        }
+    },
+    {
+        "match_id": 9609265,
+        "match_date": "2026-05-07 22:40:00+00",
+        "home_team": "Philadelphia Phillies",
+        "away_team": "Oakland Athletics",
+        "home_score": 1,
+        "away_score": 12,
+        "odds": {
+            "home": 1.769,
+            "away": 2.15
+        }
+    },
+    {
+        "match_id": 9608973,
+        "match_date": "2026-05-07 23:10:00+00",
+        "home_team": "Boston Red Sox",
+        "away_team": "Tampa Bay Rays",
+        "home_score": 4,
+        "away_score": 8,
+        "odds": {
+            "home": 1.869,
+            "away": 2.0
+        }
+    },
+    {
+        "match_id": 9609070,
+        "match_date": "2026-05-08 02:10:00+00",
+        "home_team": "San Diego Padres",
+        "away_team": "St. Louis Cardinals",
+        "home_score": 1,
+        "away_score": 2,
+        "odds": {
+            "home": 1.625,
+            "away": 2.4
+        }
+    },
+    {
+        "match_id": 9609140,
+        "match_date": "2026-05-08 22:10:00+00",
+        "home_team": "Cincinnati Reds",
+        "away_team": "Houston Astros",
+        "home_score": 0,
+        "away_score": 10,
+        "odds": {
+            "home": 1.769,
+            "away": 2.1
+        }
+    },
+    {
+        "match_id": 9609418,
+        "match_date": "2026-05-08 22:40:00+00",
+        "home_team": "Philadelphia Phillies",
+        "away_team": "Colorado Rockies",
+        "home_score": 7,
+        "away_score": 9,
+        "odds": {
+            "home": 1.444,
+            "away": 2.9
+        }
+    },
+    {
+        "match_id": 9609122,
+        "match_date": "2026-05-08 23:05:00+00",
+        "home_team": "Baltimore Orioles",
+        "away_team": "Oakland Athletics",
+        "home_score": 3,
+        "away_score": 4,
+        "odds": {
+            "home": 1.741,
+            "away": 2.05
+        }
+    },
+    {
+        "match_id": 9609092,
+        "match_date": "2026-05-08 23:07:00+00",
+        "home_team": "Toronto Blue Jays",
+        "away_team": "Los Angeles Angels",
+        "home_score": 2,
+        "away_score": 0,
+        "odds": {
+            "home": 1.625,
+            "away": 2.35
+        }
+    },
+    {
+        "match_id": 9608982,
+        "match_date": "2026-05-08 23:10:00+00",
+        "home_team": "Boston Red Sox",
+        "away_team": "Tampa Bay Rays",
+        "home_score": 2,
+        "away_score": 0,
+        "odds": {
+            "home": 1.769,
+            "away": 2.15
+        }
+    },
+    {
+        "match_id": 9609053,
+        "match_date": "2026-05-08 23:10:00+00",
+        "home_team": "Miami Marlins",
+        "away_team": "Washington Nationals",
+        "home_score": 2,
+        "away_score": 3,
+        "odds": {
+            "home": 1.714,
+            "away": 2.2
+        }
+    },
+    {
+        "match_id": 9609253,
+        "match_date": "2026-05-08 23:15:00+00",
+        "home_team": "Cleveland Guardians",
+        "away_team": "Minnesota Twins",
+        "home_score": 6,
+        "away_score": 4,
+        "odds": {
+            "home": 1.6711409,
+            "away": 2.25
+        }
+    },
+    {
+        "match_id": 9609097,
+        "match_date": "2026-05-08 23:40:00+00",
+        "home_team": "Chicago White Sox",
+        "away_team": "Seattle Mariners",
+        "home_score": 8,
+        "away_score": 12,
+        "odds": {
+            "home": 2.15,
+            "away": 1.74
+        }
+    },
+    {
+        "match_id": 9609110,
+        "match_date": "2026-05-08 23:40:00+00",
+        "home_team": "Kansas City Royals",
+        "away_team": "Detroit Tigers",
+        "home_score": 4,
+        "away_score": 3,
+        "odds": {
+            "home": 1.6711409,
+            "away": 2.25
+        }
+    },
+    {
+        "match_id": 9608761,
+        "match_date": "2026-05-08 23:40:00+00",
+        "home_team": "Milwaukee Brewers",
+        "away_team": "New York Yankees",
+        "home_score": 6,
+        "away_score": 0,
+        "odds": {
+            "home": 2.07,
+            "away": 1.833
+        }
+    },
+    {
+        "match_id": 9608775,
+        "match_date": "2026-05-09 00:05:00+00",
+        "home_team": "Texas Rangers",
+        "away_team": "Chicago Cubs",
+        "home_score": 1,
+        "away_score": 7,
+        "odds": {
+            "home": 2.1,
+            "away": 1.7692307
+        }
+    },
+    {
+        "match_id": 9609147,
+        "match_date": "2026-05-09 01:40:00+00",
+        "home_team": "Arizona Diamondbacks",
+        "away_team": "New York Mets",
+        "home_score": 1,
+        "away_score": 3,
+        "odds": {
+            "home": 2.05,
+            "away": 1.8196721
+        }
+    },
+    {
+        "match_id": 9609067,
+        "match_date": "2026-05-09 01:45:00+00",
+        "home_team": "San Diego Padres",
+        "away_team": "St. Louis Cardinals",
+        "home_score": 0,
+        "away_score": 6,
+        "odds": {
+            "home": 1.6993006,
+            "away": 2.25
+        }
+    },
+    {
+        "match_id": 9608752,
+        "match_date": "2026-05-09 02:10:00+00",
+        "home_team": "Los Angeles Dodgers",
+        "away_team": "Atlanta Braves",
+        "home_score": 3,
+        "away_score": 1,
+        "odds": {
+            "home": 1.9090909,
+            "away": 1.952
+        }
+    },
+    {
+        "match_id": 9609664,
+        "match_date": "2026-05-09 02:15:00+00",
+        "home_team": "San Francisco Giants",
+        "away_team": "Pittsburgh Pirates",
+        "home_score": 5,
+        "away_score": 2,
+        "odds": {
+            "home": 1.909,
+            "away": 1.925926
+        }
+    },
+    {
+        "match_id": 9608980,
+        "match_date": "2026-05-09 19:07:00+00",
+        "home_team": "Toronto Blue Jays",
+        "away_team": "Los Angeles Angels",
+        "home_score": 14,
+        "away_score": 1,
+        "odds": {
+            "home": 1.556,
+            "away": 2.55
+        }
+    },
+    {
+        "match_id": 9608768,
+        "match_date": "2026-05-09 20:05:00+00",
+        "home_team": "Baltimore Orioles",
+        "away_team": "Oakland Athletics",
+        "home_score": 2,
+        "away_score": 6,
+        "odds": {
+            "home": 1.8,
+            "away": 2.0
+        }
+    },
+    {
+        "match_id": 9609435,
+        "match_date": "2026-05-09 20:10:00+00",
+        "home_team": "Boston Red Sox",
+        "away_team": "Tampa Bay Rays",
+        "home_score": null,
+        "away_score": null,
+        "odds": {
+            "home": 1.714,
+            "away": 2.2
+        }
+    },
+    {
+        "match_id": 9609079,
+        "match_date": "2026-05-09 20:10:00+00",
+        "home_team": "Cincinnati Reds",
+        "away_team": "Houston Astros",
+        "home_score": 3,
+        "away_score": 1,
+        "odds": {
+            "home": 1.625,
+            "away": 2.35
+        }
+    },
+    {
+        "match_id": 9608738,
+        "match_date": "2026-05-09 20:10:00+00",
+        "home_team": "Miami Marlins",
+        "away_team": "Washington Nationals",
+        "home_score": 8,
+        "away_score": 7,
+        "odds": {
+            "home": 1.625,
+            "away": 2.35
+        }
+    },
+    {
+        "match_id": 9609036,
+        "match_date": "2026-05-09 22:05:00+00",
+        "home_team": "Philadelphia Phillies",
+        "away_team": "Colorado Rockies",
+        "home_score": 9,
+        "away_score": 3,
+        "odds": {
+            "home": 1.54,
+            "away": 2.6
+        }
+    },
+    {
+        "match_id": 9609016,
+        "match_date": "2026-05-09 22:10:00+00",
+        "home_team": "Cleveland Guardians",
+        "away_team": "Minnesota Twins",
+        "home_score": 1,
+        "away_score": 2,
+        "odds": {
+            "home": 1.833,
+            "away": 2.05
+        }
+    },
+    {
+        "match_id": 9609284,
+        "match_date": "2026-05-09 23:05:00+00",
+        "home_team": "Texas Rangers",
+        "away_team": "Chicago Cubs",
+        "home_score": 6,
+        "away_score": 0,
+        "odds": {
+            "home": 2.1,
+            "away": 1.7692307
+        }
+    },
+    {
+        "match_id": 9609043,
+        "match_date": "2026-05-09 23:10:00+00",
+        "home_team": "Chicago White Sox",
+        "away_team": "Seattle Mariners",
+        "home_score": 6,
+        "away_score": 1,
+        "odds": {
+            "home": 2.1,
+            "away": 1.769
+        }
+    },
+    {
+        "match_id": 9609667,
+        "match_date": "2026-05-09 23:10:00+00",
+        "home_team": "Kansas City Royals",
+        "away_team": "Detroit Tigers",
+        "home_score": 5,
+        "away_score": 1,
+        "odds": {
+            "home": 1.7692307,
+            "away": 2.15
+        }
+    },
+    {
+        "match_id": 9609256,
+        "match_date": "2026-05-09 23:10:00+00",
+        "home_team": "Milwaukee Brewers",
+        "away_team": "New York Yankees",
+        "home_score": 4,
+        "away_score": 3,
+        "odds": {
+            "home": 2.15,
+            "away": 1.741
+        }
+    },
+    {
+        "match_id": 9609272,
+        "match_date": "2026-05-09 23:15:00+00",
+        "home_team": "Arizona Diamondbacks",
+        "away_team": "New York Mets",
+        "home_score": 2,
+        "away_score": 1,
+        "odds": {
+            "home": 1.9090909,
+            "away": 1.9090909
+        }
+    },
+    {
+        "match_id": 9608806,
+        "match_date": "2026-05-09 23:15:00+00",
+        "home_team": "San Diego Padres",
+        "away_team": "St. Louis Cardinals",
+        "home_score": 4,
+        "away_score": 2,
+        "odds": {
+            "home": 1.714,
+            "away": 2.2
+        }
+    },
+    {
+        "match_id": 9608995,
+        "match_date": "2026-05-10 01:05:00+00",
+        "home_team": "San Francisco Giants",
+        "away_team": "Pittsburgh Pirates",
+        "home_score": 3,
+        "away_score": 13,
+        "odds": {
+            "home": 1.9090909,
+            "away": 1.9090909
+        }
+    },
+    {
+        "match_id": 9609294,
+        "match_date": "2026-05-10 01:10:00+00",
+        "home_team": "Los Angeles Dodgers",
+        "away_team": "Atlanta Braves",
+        "home_score": 2,
+        "away_score": 7,
+        "odds": {
+            "home": 1.556,
+            "away": 2.55
+        }
+    },
+    {
+        "match_id": 9609052,
+        "match_date": "2026-05-10 16:15:00+00",
+        "home_team": "Miami Marlins",
+        "away_team": "Washington Nationals",
+        "home_score": 5,
+        "away_score": 2,
+        "odds": {
+            "home": 1.741,
+            "away": 2.15
+        }
+    },
+    {
+        "match_id": 9609021,
+        "match_date": "2026-05-10 17:35:00+00",
+        "home_team": "Baltimore Orioles",
+        "away_team": "Oakland Athletics",
+        "home_score": 2,
+        "away_score": 1,
+        "odds": {
+            "home": 1.909,
+            "away": 1.909
+        }
+    },
+    {
+        "match_id": 9609088,
+        "match_date": "2026-05-10 17:35:00+00",
+        "home_team": "Boston Red Sox",
+        "away_team": "Tampa Bay Rays",
+        "home_score": 1,
+        "away_score": 4,
+        "odds": {
+            "home": 1.667,
+            "away": 2.29
+        }
+    },
+    {
+        "match_id": 9609087,
+        "match_date": "2026-05-10 17:35:00+00",
+        "home_team": "Philadelphia Phillies",
+        "away_team": "Colorado Rockies",
+        "home_score": 6,
+        "away_score": 0,
+        "odds": {
+            "home": 1.333,
+            "away": 3.48
+        }
+    },
+    {
+        "match_id": 9609521,
+        "match_date": "2026-05-10 17:37:00+00",
+        "home_team": "Toronto Blue Jays",
+        "away_team": "Los Angeles Angels",
+        "home_score": 1,
+        "away_score": 6,
+        "odds": {
+            "home": 1.87,
+            "away": 2.0
+        }
+    },
+    {
+        "match_id": 9609252,
+        "match_date": "2026-05-10 17:40:00+00",
+        "home_team": "Cincinnati Reds",
+        "away_team": "Houston Astros",
+        "home_score": 5,
+        "away_score": 0,
+        "odds": {
+            "home": 1.909,
+            "away": 2.0
+        }
+    },
+    {
+        "match_id": 9609084,
+        "match_date": "2026-05-10 17:40:00+00",
+        "home_team": "Cleveland Guardians",
+        "away_team": "Minnesota Twins",
+        "home_score": 4,
+        "away_score": 5,
+        "odds": {
+            "home": 1.625,
+            "away": 2.4
+        }
+    },
+    {
+        "match_id": 9609283,
+        "match_date": "2026-05-10 18:10:00+00",
+        "home_team": "Chicago White Sox",
+        "away_team": "Seattle Mariners",
+        "home_score": 2,
+        "away_score": 1,
+        "odds": {
+            "home": 2.2,
+            "away": 1.741
+        }
+    },
+    {
+        "match_id": 9608984,
+        "match_date": "2026-05-10 18:10:00+00",
+        "home_team": "Milwaukee Brewers",
+        "away_team": "New York Yankees",
+        "home_score": 4,
+        "away_score": 3,
+        "odds": {
+            "home": 1.87,
+            "away": 2.0
+        }
+    },
+    {
+        "match_id": 9609263,
+        "match_date": "2026-05-10 18:35:00+00",
+        "home_team": "Texas Rangers",
+        "away_team": "Chicago Cubs",
+        "home_score": 3,
+        "away_score": 0,
+        "odds": {
+            "home": 1.833,
+            "away": 2.02
+        }
+    },
+    {
+        "match_id": 9609010,
+        "match_date": "2026-05-10 20:05:00+00",
+        "home_team": "San Francisco Giants",
+        "away_team": "Pittsburgh Pirates",
+        "home_score": 7,
+        "away_score": 6,
+        "odds": {
+            "home": 1.8,
+            "away": 2.1
+        }
+    },
+    {
+        "match_id": 9608756,
+        "match_date": "2026-05-10 20:10:00+00",
+        "home_team": "Arizona Diamondbacks",
+        "away_team": "New York Mets",
+        "home_score": 5,
+        "away_score": 1,
+        "odds": {
+            "home": 1.87,
+            "away": 1.952381
+        }
+    },
+    {
+        "match_id": 9609192,
+        "match_date": "2026-05-10 20:10:00+00",
+        "home_team": "Los Angeles Dodgers",
+        "away_team": "Atlanta Braves",
+        "home_score": 2,
+        "away_score": 7,
+        "odds": {
+            "home": 1.714,
+            "away": 2.2
+        }
+    },
+    {
+        "match_id": 9609059,
+        "match_date": "2026-05-10 20:10:00+00",
+        "home_team": "San Diego Padres",
+        "away_team": "St. Louis Cardinals",
+        "home_score": 3,
+        "away_score": 2,
+        "odds": {
+            "home": 1.769,
+            "away": 2.15
+        }
+    },
+    {
+        "match_id": 9609022,
+        "match_date": "2026-05-10 23:20:00+00",
+        "home_team": "Kansas City Royals",
+        "away_team": "Detroit Tigers",
+        "home_score": 3,
+        "away_score": 6,
+        "odds": {
+            "home": 1.8,
+            "away": 2.1
+        }
+    }
+]
