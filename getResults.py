@@ -61,7 +61,7 @@ def merge_match_data(matches_file, odds_file, output_file):
 
 if __name__ == "__main__":
     merge_match_data(
-        matches_file="w13.json",
-        odds_file="w13-odds.json",
-        output_file="w13-combined.json",
+        matches_file="w16.json",
+        odds_file="w16-odds.json",
+        output_file="w16-combined.json",
     )
