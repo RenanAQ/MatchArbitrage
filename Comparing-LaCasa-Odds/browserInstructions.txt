@@ -1,0 +1,123 @@
+To use it for another day, select a day first, check the header of the json that was returned and then change these two parameters in baseUrl:
+
+Oddspedia goes from 4am to 3:59 am, so just change the start and end day
+startDate=2026-07-22T04:00:00Z
+endDate=2026-07-23T03:59:59Z
+
+Paste this on the browser console:
+
+
+
+(async () => {
+    const baseUrl =
+        "https://oddspedia.com/api/v1/getMatchList?excludeSpecialStatus=0&sortBy=default&perPageDefault=50&startDate=2026-07-22T04:00:00Z&endDate=2026-07-23T03:59:59Z&geoCode=BR&status=all&sport=football&popularLeaguesOnly=0&perPage=50&language=en";
+
+    const firstPage = await fetch(`${baseUrl}&page=1`).then(r => r.json());
+
+    const totalPages = firstPage.data.total_pages;
+
+    console.log(`Found ${totalPages} pages`);
+
+    const allMatches = [];
+    const categoryList = firstPage.data.categoryList;
+    const leagueList = firstPage.data.leagueList;
+
+    function processMatches(matches) {
+        for (const match of matches) {
+            let htHome = "";
+            let htAway = "";
+
+            if (match.status) {
+                try {
+                    const periods = JSON.parse(match.status);
+
+                    const firstHalf = periods.find(
+                        p => p.period_number === 1
+                    );
+
+                    if (firstHalf) {
+                        htHome = firstHalf.home ?? "";
+                        htAway = firstHalf.away ?? "";
+                    }
+                } catch (e) {}
+            }
+
+            const [date, timeWithZone] = match.md.split(" ");
+            const time = timeWithZone.replace(/\+.*/, "");
+
+            allMatches.push({
+                country:
+                    categoryList?.[match.category_id]?.name || "",
+                league:
+                    leagueList?.[match.league_id]?.name || "",
+                date,
+                time,
+                home: match.ht,
+                away: match.at,
+                halftime_home: htHome,
+                halftime_away: htAway,
+                end_home: match.hscore ?? "",
+                end_away: match.ascore ?? ""
+            });
+        }
+    }
+
+    processMatches(firstPage.data.matchList);
+
+    for (let page = 2; page <= totalPages; page++) {
+        console.log(`Loading page ${page}/${totalPages}`);
+
+        const pageData = await fetch(
+            `${baseUrl}&page=${page}`
+        ).then(r => r.json());
+
+        processMatches(pageData.data.matchList);
+    }
+
+    const csvRows = [];
+
+    csvRows.push(
+        "country,league,date,time,home,away,halftime_home,halftime_away,end_home,end_away"
+    );
+
+    for (const row of allMatches) {
+        csvRows.push(
+            [
+                row.country,
+                row.league,
+                row.date,
+                row.time,
+                row.home,
+                row.away,
+                row.halftime_home,
+                row.halftime_away,
+                row.end_home,
+                row.end_away
+            ]
+                .map(v => `"${String(v).replace(/"/g, '""')}"`)
+                .join(",")
+        );
+    }
+
+    const blob = new Blob(
+        [csvRows.join("\n")],
+        { type: "text/csv;charset=utf-8;" }
+    );
+
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+
+    const exportDate =
+        firstPage.data.matchList[0]?.md?.split(" ")[0] ||
+        "unknown-date";
+
+    a.download = `matches-${exportDate}.csv`;
+
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+
+    console.log(
+        `Exported ${allMatches.length} matches to matches-${exportDate}.csv`
+    );
+})();

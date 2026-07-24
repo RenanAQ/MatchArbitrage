@@ -1,0 +1,3 @@
+1.Copy the response from the network Inspect Browser as 2026-xx-xx.json
+2. run the script: ./extract_matches.sh 2026-xx-xx.json > matches.csv
+3.Copy the results from matches.csv
